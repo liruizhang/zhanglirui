@@ -1,2 +1,2 @@
-git add -u
+git add -u;
 git commit -m
