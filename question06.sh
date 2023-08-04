@@ -1,2 +1,2 @@
-git add .
-git commit -m"asd"
+git add .;
+git commit -m "commit all modified files"
