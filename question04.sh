@@ -1,2 +1,2 @@
-git add
-git commit
+git add .
+git commit -m "111"

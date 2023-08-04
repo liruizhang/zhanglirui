@@ -1,2 +1,2 @@
 git add *.py
-git commit -m
+git commit -m"asd"

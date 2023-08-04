@@ -1,2 +1,2 @@
-git add -u
-git commit -m
+git add .
+git commit -m"asd"

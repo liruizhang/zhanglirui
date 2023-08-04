@@ -1,5 +1,5 @@
 git branch branch1
-git checkout branch
+git checkout branch1
 touch file3
-git commit file3
-git commit
+git add file3
+git commit -m"add file3"
